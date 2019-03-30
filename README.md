@@ -1,4 +1,4 @@
-#Apple
+## Apple
 
 Describe an interesting problem that you have solved
 
@@ -17,7 +17,7 @@ If we hire you, what would you like to work on?
 There are three boxes. Only in one only apples, in the other only oranges, and in the third and oranges and apples. All boxes are labeled incorrectly (messed up). Having opened only one small box and took only one fruit, how can you immediately say which box contains what?
 
 
-#Microsoft
+## Microsoft
 
 Have you ever disagreed with a manager's decision, how did you line up your arguments? Give a specific example and explain how you decided this dispute, how was the decision as a result, how does it describe you personally?
 
